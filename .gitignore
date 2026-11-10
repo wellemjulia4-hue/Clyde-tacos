@@ -1,0 +1,13 @@
+*.rpyc
+*.rpa
+firstrun
+cache/
+saves/
+
+traceback.txt
+errors.txt
+log.txt
+project.json
+RenPyVersionError.txt
+
+.vscode
